@@ -78,6 +78,6 @@ Linkalho<br>
 [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay)<br>
 [SaltyNX](https://github.com/masagrator/SaltyNX)<br>
 [OC-Switchcraft-EOS](https://github.com/halop/OC-Switchcraft-EOS)<br>
-[nim patch](https://github.com/fruityloops1/nim-prodinfo-blank-fix/)
-以及所有让我们NX变的更好玩的人<br><br><br>
+[nim patch](https://github.com/fruityloops1/nim-prodinfo-blank-fix/)<br>
+以及所有让我们NX变的更好玩的人<br><br>
 
