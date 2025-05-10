@@ -35,13 +35,13 @@ usb3force=0
 应诸多用户要求，并制作KIP补丁并添加超级OC功能，默认开放以下最高OC频率:<br>
 CPU:1963Mhz(OC Max)		1785Mhz(Default Max)		1020Mhz(Default)<br>
 GPU:1228Mhz(OC Max)		921Mhz(Default Max)		768Mhz(Default)<br>
-MEM:----Mhz(OC Max)		1600Mhz(Default Max)		1600Mhz(Default)<br>
-进阶用户可自定义调整频率/电压/时序。OC超频功能极其危险，会增大发热降低续航，并可能损害硬件！<br>
-不建议普通用户使用或长时间使用，若使用请自负责。<br>
+MEM:----Mhz(OC Max)		1600Mhz(Default Max)		1600Mhz(Default)<br><br>
+❗进阶用户可自定义调整频率/电压/时序。OC超频功能极其危险，会增大发热降低续航，并可能损害硬件！<br>
+不建议普通用户使用或长时间使用，若使用请自负责。<br><br>
 使用方法:<br>
 * 打开UltraHnand<br>
 * 选择 系统超频 进行操作<br>
-(进阶)<br>
+【进阶操作】<br>
 * 打开UltraHnand<br>
 * 按→键选择 OC Switchcraft EOS 进行进阶操作<br><br><br>
 
