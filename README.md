@@ -44,7 +44,8 @@ GPU:1228Mhz(OC Max)		921Mhz(Default Max)		768Mhz(Default)<br>
 MEM:----Mhz(OC Max)		1600Mhz(Default Max)		1600Mhz(Default)<br><br>
 > [!WARNING]
 > 进阶用户可自定义调整频率/电压/时序。OC超频功能极其危险，会增大发热降低续航，并可能损害硬件！<br>
-> 不建议普通用户使用或长时间使用，若使用请自负责。<br><br>
+> 不建议普通用户使用或长时间使用，若使用请自负责。
+<br><br>
 使用方法:<br>
 * 打开UltraHnand<br>
 * 选择 系统超频 进行操作<br>
