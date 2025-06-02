@@ -25,7 +25,7 @@ usb3force=0
   * ~~【推荐】格式化SD卡重做FAT32系统使用最稳定(如果是我上一版本的可以直接覆盖更新)~~<br>
 <br>
   ### ❗该整合包支持软破，虽有报告最新版本可以顺利启动，但因软破不稳定性因素更多，已经长期没有维护软破相关模块，可能在软破及上无法稳定正常启动<br>
-  如果你是 腾讯-任天堂Switch 用户，在升级19+系统前，可能需要[切换至全球版本](https://github.com/CaiMiao/Tencent-switcher-GUI)<br>
+  如果你是 腾讯-任天堂Switch 用户，在升级19+系统前，可能需要 [切换至全球版本](https://github.com/CaiMiao/Tencent-switcher-GUI) <br>
 <br>
 
 ✅该整合包已添加CommonProblemResolver救砖插件 <br> 可Hekate下删除主题和关闭插件自动启动<br>
