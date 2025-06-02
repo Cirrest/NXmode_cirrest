@@ -97,5 +97,6 @@ Linkalho<br>
 [OC-Switchcraft-EOS](https://github.com/halop/OC-Switchcraft-EOS)<br>
 [nim patch](https://github.com/fruityloops1/nim-prodinfo-blank-fix/)<br>
 [Tencent-switcher-GUI](https://github.com/CaiMiao/Tencent-switcher-GUI)<br>
+[Goldleaf](https://github.com/XorTroll/Goldleaf)<br>
 以及所有让我们NX变的更好玩的人<br><br>
 
