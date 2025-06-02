@@ -4,8 +4,9 @@
 默认屏蔽虚拟和真实系统序列号和DNS<br>
 自带HB APPSTORE/常规超频等很多插件，够大部分人用了<br>
 [酷安同步更新](http://www.coolapk.com/u/2679393)<br><br>
-本整合作者从未进行任何收费盈利行为！<br>
-本项目仅作个人交流学习、研究安全漏洞、备份数据使用，禁止使用该项目进行任何形式商业化、贩卖等使用。不支持也不提供任何违规非法用途支持和使用，请勿用于任何非法用途，请在下载24小时之内删除。<br><br>
+> [!NOTE]  
+> 本整合作者从未进行任何收费盈利行为！
+> 本项目仅作个人交流学习、研究安全漏洞、备份数据使用，禁止使用该项目进行任何形式商业化、贩卖等使用。不支持也不提供任何违规非法用途支持和使用，请勿用于任何非法用途，请在下载24小时之内删除。
 
 * Telsa是Ultrahand，减少卡屏等键位冲突
 * Ultrahand按键：ZL+ZR+ZDDown(左下按键)
@@ -24,8 +25,9 @@ usb3force=0
 [酷安链接](https://www.coolapk.com/feed/57053591?shareKey=YWYyOGZjY2U0YTE5NjY3YWRmMTg~&shareUid=2679393&shareFrom=com.coolapk.market_14.0.3)<br>
   * ~~【推荐】格式化SD卡重做FAT32系统使用最稳定(如果是我上一版本的可以直接覆盖更新)~~<br>
 <br>
-  ### ❗该整合包支持软破，虽有报告最新版本可以顺利启动，但因软破不稳定性因素更多，已经长期没有维护软破相关模块，可能在软破及上无法稳定正常启动<br>
-  如果你是 腾讯-任天堂Switch 用户，在升级19+系统前，可能需要 [切换至全球版本](https://github.com/CaiMiao/Tencent-switcher-GUI) <br>
+> [!WARNING]
+> 该整合包支持软破，虽有报告最新版本可以顺利启动，但因软破不稳定性因素更多，已经长期没有维护软破相关模块，可能在软破及上无法稳定正常启动<br>
+> 如果你是 腾讯-任天堂Switch 用户，在升级19+系统前，可能需要 [切换至全球版本](https://github.com/CaiMiao/Tencent-switcher-GUI) <br>
 <br>
 
 ✅该整合包已添加CommonProblemResolver救砖插件 <br> 可Hekate下删除主题和关闭插件自动启动<br>
@@ -39,8 +41,9 @@ usb3force=0
 CPU:1963Mhz(OC Max)		1785Mhz(Default Max)		1020Mhz(Default)<br>
 GPU:1228Mhz(OC Max)		921Mhz(Default Max)		768Mhz(Default)<br>
 MEM:----Mhz(OC Max)		1600Mhz(Default Max)		1600Mhz(Default)<br><br>
-❗进阶用户可自定义调整频率/电压/时序。OC超频功能极其危险，会增大发热降低续航，并可能损害硬件！<br>
-不建议普通用户使用或长时间使用，若使用请自负责。<br><br>
+> [!WARNING]
+> 进阶用户可自定义调整频率/电压/时序。OC超频功能极其危险，会增大发热降低续航，并可能损害硬件！<br>
+> 不建议普通用户使用或长时间使用，若使用请自负责。<br><br>
 使用方法:<br>
 * 打开UltraHnand<br>
 * 选择 系统超频 进行操作<br>
