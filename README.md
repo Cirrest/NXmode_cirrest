@@ -104,5 +104,7 @@ Linkalho<br>
 [sys-patch](https://github.com/impeeza/sys-patch)<br>
 [Tencent-switcher-GUI](https://github.com/CaiMiao/Tencent-switcher-GUI)<br>
 [Goldleaf](https://github.com/XorTroll/Goldleaf)<br>
+[FPSLocker](https://github.com/masagrator/FPSLocker)<br>
+[Status-Monitor-Overlay](https://github.com/masagrator/Status-Monitor-Overlay)<br>
 以及所有让我们NX变的更好玩的人<br><br>
 
