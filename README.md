@@ -56,7 +56,9 @@ usb3force=0
 <br><br>
 使用方法:<br>
 * 打开UltraHnand<br>
-* 选择 系统超频 进行操作<br>
+* 选择 系统超频 进行操作
+<br>
+<br>
  * 【进阶操作】<br>
   * 打开UltraHnand<br>
   * 按→键选择 OC Switchcraft EOS 进行进阶操作<br><br><br>
