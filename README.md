@@ -40,7 +40,7 @@ usb3force=0
 应诸多用户要求，并制作KIP补丁并添加超级OC功能<br>
 > [!NOTE]
 > 请注意:有用户报告默认OC不稳定，从本版本开始，超级OC需要自行将NX-UltraOC_xxx.zip文件解压后，将里面三个文件夹复制并覆盖至SD卡根目录
-> <br>
+
 默认开放以下最高OC频率:<br>
 CPU:1963Mhz(OC Max)		1785Mhz(Default Max)		1020Mhz(Default)<br>
 GPU:1228Mhz(OC Max)		921Mhz(Default Max)		768Mhz(Default)<br>
