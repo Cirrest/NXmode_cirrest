@@ -1,7 +1,7 @@
 # Switch大气层整合包
 均来自官方Github源，简洁，稳定，插件齐全<br>
 <br>
-您若喜欢该整合包，请给我点亮⭐Star
+您若喜欢该整合包，请给我点亮⭐Star<br>
 若遇到问题可以提交 [issues](https://github.com/Cirrest/NXmode_cirrest/issues) 或 酷安 Cirrest 反馈。
 <br>
 因为求稳定所以我更新会比较慢，已进行7天压力测试并解决相关bug，稳定使用，到手即用。<br>
