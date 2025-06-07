@@ -56,10 +56,10 @@ usb3force=0
 <br><br>
 使用方法:<br>
 * 打开UltraHnand<br>
-* 选择 系统超频 进行操作<br>
-【进阶操作】<br>
-* 打开UltraHnand<br>
-* 按→键选择 OC Switchcraft EOS 进行进阶操作<br><br><br>
+* 选择 系统超频 进行操作<br><br>
+ * 【进阶操作】<br>
+  * 打开UltraHnand<br>
+  * 按→键选择 OC Switchcraft EOS 进行进阶操作<br><br><br>
 
 
 ♿♿♿如果你的NX无法稳定运行或经常出现安装使用Ubuntu和Android有玄学问题，请考虑你的芯片是否需要更新固件
