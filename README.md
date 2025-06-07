@@ -2,7 +2,7 @@
 均来自官方Github源，简洁，稳定，插件齐全<br>
 <br>
 您若喜欢该整合包，请给我点亮⭐Star<br>
-若遇到问题可以提交 [issues](https://github.com/Cirrest/NXmode_cirrest/issues) 或 酷安 Cirrest 反馈。
+若遇到问题可以提交 [issues](https://github.com/Cirrest/NXmode_cirrest/issues) 或 酷安 Cirrest 反馈。<br>
 <br>
 因为求稳定所以我更新会比较慢，已进行7天压力测试并解决相关bug，稳定使用，到手即用。<br>
 默认屏蔽虚拟和真实系统序列号和DNS<br>
