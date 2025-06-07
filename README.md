@@ -39,11 +39,11 @@ usb3force=0
 <br>
 
 > [!TIP]
-> ✅该整合包已添加CommonProblemResolver救砖插件 <br> 可Hekate下删除主题和关闭插件自动启动<br>
+> 该整合包已添加CommonProblemResolver救砖插件 <br> 可Hekate下删除主题和关闭插件自动启动<br>
 > 启动路径:hekate启动器-更多设置-CommonProblemResolver
 > 进去1是关闭插件自启动，2是删除安装的主题，有效解决进不去HOS系统的故障<br>
 > 更详细说明请见[官方说明](https://github.com/zdm65477730/CommonProblemResolver/)
-<br><br><br>
+
 
 ----
 应诸多用户要求，并制作KIP补丁并添加超级OC功能<br>
