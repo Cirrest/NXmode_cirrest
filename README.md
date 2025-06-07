@@ -13,6 +13,14 @@ Switch Firmware固件: https://github.com/THZoria/NX_Firmware/releases <br>
 * Telsa是Ultrahand，减少卡屏等键位冲突
 * Ultrahand按键：ZL+ZR+ZDDown(左下按键)
 * 已内置调整风扇转速调节配置并已调优(atmosphere\config\system_settings.ini),风扇调整更细腻平衡，降低主机模式闷热问题，延长掌机模式续航能力
+* * 新手小白向 - 安全的升级Switch大气层HOS/整合包教程：
+[酷安链接](https://www.coolapk.com/feed/57053591?shareKey=YWYyOGZjY2U0YTE5NjY3YWRmMTg~&shareUid=2679393&shareFrom=com.coolapk.market_14.0.3)<br>
+  * ~~【推荐】格式化SD卡重做FAT32系统使用最稳定(如果是我上一版本的可以直接覆盖更新)~~<br>
+
+> [!WARNING]
+> 该整合包支持软破，但因软破不稳定性因素更多，可能在软破及上无法稳定正常使用<br>
+> 如果你是 腾讯-任天堂Switch 中国大陆硬件 用户，在升级19.0.1+系统前，可能需要 [切换至全球版本](https://github.com/CaiMiao/Tencent-switcher-GUI)
+
 * 应大部分用户反馈，20241027版本后默认开启USB3.0，在支持该协议的端口和线缆上使用能有效提高有线传输速度，但会较严重干扰2.4GHz WIFI和蓝牙信号质量和信噪比，并且可能在部分电脑和线材在MTP模式下无法识别设备。如果你遇到上述问题，则需手动编辑 Atmosphere 系统配置文件来禁用此功能，如下所示：<br><br>
 目录/atmosphere/config/system_settings.ini<br>
 ```
@@ -23,13 +31,6 @@ usb30_force_enabled = u8!0x0
 ```
 usb3force=0
 ```
-* 新手小白向 - 安全的升级Switch大气层HOS/整合包教程：
-[酷安链接](https://www.coolapk.com/feed/57053591?shareKey=YWYyOGZjY2U0YTE5NjY3YWRmMTg~&shareUid=2679393&shareFrom=com.coolapk.market_14.0.3)<br>
-  * ~~【推荐】格式化SD卡重做FAT32系统使用最稳定(如果是我上一版本的可以直接覆盖更新)~~<br>
-
-> [!WARNING]
-> 该整合包支持软破，但因软破不稳定性因素更多，可能在软破及上无法稳定正常使用<br>
-> 如果你是 腾讯-任天堂Switch 中国大陆硬件 用户，在升级19.0.1+系统前，可能需要 [切换至全球版本](https://github.com/CaiMiao/Tencent-switcher-GUI)
 <br>
 <br>
 
