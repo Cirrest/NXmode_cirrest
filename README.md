@@ -4,7 +4,7 @@
 您若喜欢该整合包，请给我点亮⭐Star<br>
 若遇到问题可以提交 [issues](https://github.com/Cirrest/NXmode_cirrest/issues) 或 酷安 Cirrest 反馈。<br>
 <br>
-因为求稳定所以我更新会比较慢，已进行7天压力测试并解决相关bug，稳定使用，到手即用。<br>
+因为求稳定所以我更新会比较慢，已进行测试并解决相关bug，稳定使用，到手即用。<br>
 默认屏蔽虚拟和真实系统序列号和DNS<br>
 自带HB APPSTORE/常规超频等很多插件，够大部分人用了<br>
 [酷安同步更新](http://www.coolapk.com/u/2679393)<br>
