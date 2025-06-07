@@ -42,9 +42,12 @@ usb3force=0
 > 请注意:有用户报告默认OC不稳定，从本版本开始，超级OC需要自行将NX-UltraOC_xxx.zip文件解压后，将里面三个文件夹复制并覆盖至SD卡根目录
 
 默认开放以下最高OC频率:<br>
-CPU:1963Mhz(OC Max)		1785Mhz(Default Max)		1020Mhz(Default)<br>
-GPU:1228Mhz(OC Max)		921Mhz(Default Max)		768Mhz(Default)<br>
-MEM:----Mhz(OC Max)		1600Mhz(Default Max)		1600Mhz(Default)<br><br>
+|  | CPU | GPU | MEM |
+| ------------- | ------------- | ------------- | ------------- |
+| Ultra OC扩展包超频 | 1963Mhz | 1228Mhz | 3200Mhz |
+| 官方最高超频 | 1785Mhz | 921Mhz | 1600Mhz |
+| 官方默认 | 1020Mhz | 768/460/384Mhz | 1600/1333Mhz |
+
  > [!WARNING]
  > 进阶用户可自定义调整频率/电压/时序。OC超频功能极其危险，会增大发热降低续航，并可能损害硬件！<br>
  > 不建议普通用户使用或长时间使用，若使用请自负责。
