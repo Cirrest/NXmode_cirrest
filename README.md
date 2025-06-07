@@ -9,6 +9,7 @@ Switch Firmware固件: https://github.com/THZoria/NX_Firmware/releases <br>
 > 本整合作者从未进行任何收费盈利行为！
 > 本项目仅作个人交流学习、研究硬件、备份数据使用，禁止使用该项目进行任何形式商业化、贩卖等使用。不支持也不提供任何违规非法用途支持和使用，请勿用于任何非法用途，请在下载24小时之内删除。
 
+<br>
 * Telsa是Ultrahand，减少卡屏等键位冲突
 * Ultrahand按键：ZL+ZR+ZDDown(左下按键)
 * 已内置调整风扇转速调节配置并已调优(atmosphere\config\system_settings.ini),风扇调整更细腻平衡，降低主机模式闷热问题，延长掌机模式续航能力
@@ -39,7 +40,7 @@ usb3force=0
 ----
 应诸多用户要求，并制作KIP补丁并添加超级OC功能<br>
 > [!NOTE]
-> 请注意:有用户报告默认OC不稳定，从 20250602 版本开始，超级OC需要自行将 NX-UltraOC_xxx.zip 文件下载解压后，将里面4个文件夹复制并覆盖至Switch SD卡根目录
+> 请注意:有用户报告默认OC不稳定，从 20250602 版本开始，整合包不再主动整合超频Kips，超级OC需要自行将 NX-UltraOC_xxx.zip 附件文件下载解压后，将里面4个文件夹复制并覆盖至Switch SD卡根目录
 
 默认开放以下最高OC频率:<br>
 |  | CPU | GPU | MEM |
